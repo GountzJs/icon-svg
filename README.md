@@ -7,7 +7,7 @@ A lightweight, modern Web Component library for rendering SVG icons with ease. T
 You can install the library using your favorite package manager:
 
 ```bash
-pnpm add @gountzjs/icon-svg
+npm install @gountzjs/icon-svg
 ```
 
 ## How to Use
