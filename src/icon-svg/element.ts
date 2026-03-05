@@ -1,5 +1,5 @@
 import DOMPurify from 'isomorphic-dompurify';
-import registry, { IconName } from './icons';
+import { IconName, registry } from './icons';
 
 export class IconSvg extends HTMLElement {
   static get observedAttributes() {

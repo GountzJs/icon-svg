@@ -25,4 +25,4 @@ export class IconRegistry {
 
 }
 
-export default new IconRegistry();
+export const registry = new IconRegistry();
