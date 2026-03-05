@@ -19,7 +19,7 @@ This library does **not** come with pre-included icons. You must manually regist
 Import the `registry` and use `addIcons` to provide your SVG icon functions:
 
 ```typescript
-import registry, { Icons } from '@gountzjs/icon-svg';
+import { registry, Icons } from '@gountzjs/icon-svg';
 
 const myIcons: Icons = {
   'arrow-right': (color: string) => `
