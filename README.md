@@ -48,6 +48,7 @@ Once registered, you can use the `<icon-svg>` element anywhere in your HTML or t
 ```html
 <!-- Default: 24px, color #fff -->
 <icon-svg name="arrow-right"></icon-svg>
+```
 
 ```html
 <!-- Custom color and size -->
