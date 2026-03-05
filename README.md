@@ -71,6 +71,7 @@ If you want to contribute or build the library locally:
 ```bash
 # Install dependencies
 pnpm install
+```
 
 ```bash
 # Build the library
