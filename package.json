@@ -2,7 +2,6 @@
   "name": "@gountzjs/icon-svg",
   "type": "module",
   "version": "0.0.0",
-  "private": true,
   "description": "Simple component managment svg element",
   "author": {
     "name": "Gountz",
