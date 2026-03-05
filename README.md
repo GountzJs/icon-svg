@@ -79,4 +79,4 @@ pnpm run build
 
 ## License
 
-MIT
+[MIT](./LICENSE)
