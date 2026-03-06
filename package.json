@@ -4,6 +4,8 @@
   "version": "0.0.0",
   "description": "Simple component managment svg element",
   "keywords": ["icon-svg"],
+  "license": "MIT",
+  "url": "https://github.com/GountzJs/icon-svg",
   "author": {
     "name": "Gountz",
     "url": "https://github.com/GountzJs"
